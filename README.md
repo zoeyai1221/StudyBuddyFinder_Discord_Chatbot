@@ -6,6 +6,7 @@ Welcome to the **Study Buddy Finder Chatbot**! This bot helps you find, create, 
 
 ### Profile Setup
 - `/profile` - Set up your user profile and specify up to 3 interests. This is the first step to using the bot.
+![profile](image.png)
 
 ### Group Management
 - `/findgroups` - View study groups that match your interests
