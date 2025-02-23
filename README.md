@@ -7,20 +7,21 @@ Welcome to the **Study Buddy Finder Chatbot**! This bot helps you find, create, 
 ### Profile Setup
 - `/profile` - Set up your user profile and specify up to 3 interests. This is the first step to using the bot.
 ![profile](image.png)
-
 ![interest](image-1.png)
 
 ### Group Management
 - `/findgroups` - View study groups that match your interests
+![findgroup](image-3.png)
 - `/creategroup` - Create a new study group
   - Select up to 3 interests
   - Input group details following the formatting guidelines
   - Choose whether to enable auto-approve for new members
+![creategroup](image-4.png)
 - `/mystudygroups` - View and manage your study groups
   - View group members
   - Create meetings (online or in-person)
   - Disband groups (if you're the owner)
-  ![studygroup](image-2.png)
+![studygroup](image-2.png)
 - `/viewapplications` - Review pending membership applications for your groups
 
 ### Meeting Management
